@@ -1,8 +1,9 @@
 body { 
   background-color: #9CB49B;
    color: #1E391D;
-  front-family: Times New Roman, Times, serif;
   padding: 15% 15%;
+  border-style:groove;
+  border-color:#DBAAA0;
 }
 
 img {
@@ -12,7 +13,7 @@ img {
 .exp-header {
   text-align:center;
   text-transform: normal;
-  border-top: 1px solid #DBAAA0; 
+  border-top: 1px solid #DBAAA0;
   border-bottom: 1px solid #DBAAA0; 
   background-color: FFF5EE(0,0,0,0.1)
 }
