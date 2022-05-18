@@ -4,7 +4,7 @@
   --typewriterCharacters: 24;}
 
 body {
-  margin: 0;
+  margin: 5%;
   
   min-height: 100vh;
   display: grid;
