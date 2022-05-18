@@ -1,6 +1,7 @@
 body { 
   background-color: #9CB49B;
-   color: #1E391D;
+  color: #1E391D;
+  padding: 5% 5%;
   border-style:double;
   border-color:#1E391D;
 }
